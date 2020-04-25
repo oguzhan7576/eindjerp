@@ -1,0 +1,21 @@
+{
+  "name": "eindhoven-rp",
+  "version": "1.0.0",
+  "description": "Eindhoven Roleplay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "rp"
+  ],
+  "author": "ozii",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
